@@ -41,6 +41,7 @@ brew 'unison'
 # brew 'emacs', args: ['cocoa', 'srgb', 'with-gnutls']
 
 # mac apps
+cask 'tunnelblick'
 cask 'gpgtools'
 cask 'google-chrome'
 cask 'dropbox'
